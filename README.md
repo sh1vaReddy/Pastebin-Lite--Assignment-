@@ -109,6 +109,25 @@ All paste data (content, expiration time, view limits, and metadata) is stored i
 
 Pastebin-Lite/
 │
+├── Backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── config/
+│   └── server.js
+│
+├── Frontend/
+│   ├── src/
+│   ├── public/
+│   └── vite.config.js
+│
+└── README.md
+
+
+📌Notes
+- This repository contains complete source code, not just build artifacts.
+
+- Environment files (.env) are intentionally excluded from version control.
 …
 - Can be easily extended with authentication, syntax highlighting, or rate limiting.
 
