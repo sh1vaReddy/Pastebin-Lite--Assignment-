@@ -69,7 +69,7 @@ Steps
 
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/pastebin-lite.git
+git clone https://github.com/sh1vaReddy/Pastebin-Lite--Assignment-.git
 cd pastebin-lite
 ```
 
