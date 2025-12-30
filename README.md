@@ -65,7 +65,13 @@ Pastebin-Lite is a lightweight full-stack web application that allows users to c
 - MongoDB (local or cloud – MongoDB Atlas)
 - Git
 
----
+Steps
+1.clone the repository:
+```bash
+git clone https://github.com/your-username/pastebin-lite.git
+cd pastebin-lite
+```
+
 
 
 
