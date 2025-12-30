@@ -106,50 +106,10 @@ Pastebin-Lite uses MongoDB as its persistence layer.
 All paste data (content, expiration time, view limits, and metadata) is stored in a MongoDB database using Mongoose ODM. This ensures reliable data storage, easy querying, and scalability.
 
 📁 Project Structure
+
 Pastebin-Lite/
 │
-├── Backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── config/
-│   └── server.js
-│
-├── Frontend/
-│   ├── src/
-│   ├── public/
-│   └── vite.config.js
-│
-└── README.md
-
-📌 Notes
-- This repository contains complete source code, not just build artifacts.
-
-- Environment files (.env) are intentionally excluded from version control.
-
-- The project is suitable for learning:
-
-   - Full-stack development
-
-   - REST API design
-
-   - MongoDB data modeling
-
-   - React + Vite workflows
-
+…
 - Can be easily extended with authentication, syntax highlighting, or rate limiting.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
