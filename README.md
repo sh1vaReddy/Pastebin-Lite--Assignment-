@@ -67,10 +67,7 @@ Pastebin-Lite is a lightweight full-stack web application that allows users to c
 
 ---
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/pastebin-lite.git
-cd pastebin-lite
+
 
 
 
