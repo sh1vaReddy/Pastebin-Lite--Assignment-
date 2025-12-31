@@ -94,8 +94,18 @@ npm start
 ```bash
 cd Frontend
 npm install
+
+```
+Create a .env file in the Frontend folder:
+```bash
+VITE_BACKEND=http://localhost:3000
+```
+
+Start the Fontend:
+```bash
 npm run dev
 ```
+
 
 The application will be available at:
 ```bash
